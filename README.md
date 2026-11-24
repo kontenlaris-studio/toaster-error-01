@@ -1,3 +1,17 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280">
+
+# toaster-error-01
+
+Funniest toaster error message.
+
+![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931) ![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)
+
+</div>
+
+---
+
 # The Funniest Toaster Error Message
 
 [![make.fun](https://make.fun/badge/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd.svg)](https://make.fun/bounty/u-eager-stork-81-9647-the-funniest-toaster-error-436406cd)
